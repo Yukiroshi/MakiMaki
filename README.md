@@ -1,6 +1,9 @@
 # <img width="32" alt="Icon" src="https://raw.githubusercontent.com/Yukiroshi/MakiMaki/refs/heads/main/icons/coral-reef.svg" /> MakiMaki
 Optimized, colored and improved icons from [Maki](https://github.com/mapbox/maki), [Temaki](https://github.com/rapideditor/temaki), [OSM Carto](https://github.com/openstreetmap-carto/openstreetmap-carto) and [Röntgen](https://github.com/enzet/Roentgen), as well as additional ones. All in one.
 
+* Newer icons are in 32x32 format (for optimization and comfort reasons)
+* Older icons are in 15x15 format (and will be changed to the new format)
+
 Requested icons will appear sooner!
 #
 * Modified [Maki](https://github.com/mapbox/maki) icons by [Mapbox](https://github.com/mapbox) ([CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/))
